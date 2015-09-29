@@ -1,4 +1,4 @@
-# LSU Futuristic Parking Interface
+# LSU Futuristic Parking Interfaces
 
 **First of all, I would like to also credit my former teammates for this project: Phu Nguyen and Jacob Marzloff. You guys are amazing.**
 
