@@ -20,7 +20,7 @@ This project used a total of 8 screens, which consisted of:
 ##### Old Instructions
 
 ```
-Place each of the copy on the following:
+Place the whole project directory on each the following machines:
 
 27" multitouch
 2x2 tiled display
