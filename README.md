@@ -1,8 +1,6 @@
 # LSU Futuristic Parking Interfaces
 
-**First of all, I would like to also credit my former teammates for this project: Phu Nguyen and Jacob Marzloff. You guys are amazing.**
-
-**The README.md is not fully furnished yet, please come back at a later time :)**
+**First of all, I would like to also credit my former teammates for this project: Phu Nguyen and Jacob Marzloff.**
 
 This was a team project for a class called Interface Design Technology, a 4th year Undergraduate Computer Science course. In the class, we learned about emerging technologies and applied our knowledge of user interface design to create beautiful, interactive interfaces that are fun and engaging (as well as a lot of other non-functional requirements!)
 
